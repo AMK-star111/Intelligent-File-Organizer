@@ -1,0 +1,14 @@
+# Sortify
+
+An intelligent local-first file organizer built with Python.
+
+## Features
+- Scans Downloads folder
+- Detects file types
+- Classifies files automatically
+
+## Tech
+- Python
+- Rich
+
+That's it, and we are going to make it more advanced and intelligent in near future.
